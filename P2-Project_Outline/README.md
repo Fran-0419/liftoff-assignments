@@ -8,11 +8,29 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 Include overview here
+
+We will create a web application for travelers to be able to share their experiences .
+they will be able to conect to other traveler, share images and location.
 ### Features
 Include Features here
+* Create profiles: Users wil be able to create new profiles
+* login : Users will be able to login/log out.
+* Post : User Will be able to post pictures and comment .
+* Chat : users will be able to communicate with each other. 
 ### Technologies
 Include Technologies here
+
+Java
+Spring Boot
+MySQL
+Hibernate
+Thymeleaf templates
+
 ### What I'll Have to Learn
 Include what you will need to learn here
+
+How to add locations and link google maps
 ### Project Tracker
 Link to your Trello board here
+
+https://trello.com/b/DycAZ9Qb/liftoff-project-board-fall-2022
